@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Volkan Ağbulak</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
+
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=volkanagbulak&custom_title=Kullandığım Diller&show_icons=true&theme=tokyonight&locale=en&layout=compact&card_width=445&border_radius=10&langs_count=8" alt="volkanagbulak" style="float:left; margin-right:10px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=volkanagbulak&show_icons=true&theme=tokyonight&locale=en&layout=compact&card_width=10&border_radius=10&hide=contribs,prs&line_height=30" alt="volkanagbulak" />
+</p>
+
+
+  <br/>
+  <br/>
+  
+  
 <h3 align="left">Contact with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/volkanagbulak" target="blank">
@@ -100,8 +112,4 @@
   </a>
   <br/>
   <br/>
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=volkanagbulak&show_icons=true&theme=tokyonight&locale=en&layout=compact&card_width=445&border_radius=10&langs_count=8" alt="volkanagbulak" style="float:left; margin-right:10px" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=volkanagbulak&show_icons=true&theme=tokyonight&locale=en&layout=compact&card_width=10&border_radius=10&hide=contribs,prs&line_height=30" alt="volkanagbulak" />
 </p>
