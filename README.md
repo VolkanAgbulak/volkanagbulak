@@ -3,8 +3,8 @@
 
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=volkanagbulak&custom_title=Kullandığım Diller&show_icons=true&theme=tokyonight&locale=en&layout=compact&card_width=445&border_radius=10&langs_count=8" alt="volkanagbulak" style="float:left; margin-right:10px" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=volkanagbulak&show_icons=true&theme=tokyonight&locale=en&layout=compact&card_width=10&border_radius=10&hide=contribs,prs&line_height=30" alt="volkanagbulak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=volkanagbulak&custom_title=Kullandığım Diller&show_icons=true&theme=panda&locale=en&layout=compact&card_width=445&border_radius=10&langs_count=8" alt="volkanagbulak" style="float:left; margin-right:10px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=volkanagbulak&show_icons=true&theme=panda&locale=en&layout=compact&card_width=10&border_radius=10&hide=contribs,prs&line_height=30" alt="volkanagbulak" />
 </p>
 
 
