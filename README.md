@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Volkan Ağbulak</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volkanagbulak&layout=compact)](https://github.com/volkanagbulak/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/volkanagbulak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="volkanagbulak" height="30" width="40" /></a>
